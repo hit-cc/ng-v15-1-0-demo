@@ -1,6 +1,19 @@
-# MyApp
+# ng-v15-1-0-demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+
+## ABOUT PROJECT
+
+Managed folder structures
+Firebase services
+
+## FIREBASE SERVICES
+
+- Firebase authentication
+- Realtime database
+- Cloud messaging service - push notification and click redirection
+- Firebase storage - file storage services
+- Firebase deployment
 
 ## Development server
 
