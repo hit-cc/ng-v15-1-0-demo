@@ -12,4 +12,8 @@ export const environment = {
     appId: '1:787050796003:web:f126e440545172b18886d6',
     measurementId: 'G-ZGE1X1G3X6',
   },
+  keys: {
+    token: 'firebase_auth_token',
+    user_auth_key: 'user',
+  },
 };
